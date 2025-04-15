@@ -1,6 +1,6 @@
-<h2 align="left"> Hi there! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanth-s-rao&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-s-rao" /> </p>
-</h2>
+<h1 align="center"> Hi there! 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sushanth-s-rao&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-s-rao" /> </p>
+</h1>
 
 - 🔭 I’m currently working on building Generative AI applications
 - 🌱 I’m currently learning Python
@@ -31,18 +31,22 @@ Web Development:
 Machine Learning:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
+&nbsp;
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushanth-S-Rao&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+&nbsp;
 
 ## ✒️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+&nbsp;
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sushanth-S-Rao&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+&nbsp;
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sushanth-S-Rao&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
