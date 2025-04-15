@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about C
 - ⚡ Fun fact: Any problem can be solved by adding another layer of direction
-
 &nbsp;
 ## 🌐 Connect with me:
 <p align="left">
