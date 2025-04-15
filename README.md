@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building Generative AI applications
 - 🌱 I’m currently learning Python
 - 💬 Ask me about C
-- ⚡ Fun fact: Any problem can be solved by adding another layer of direction
+- ⚡ Fun fact: Any problem can be solved by adding another layer of indirection
 
 &nbsp;
 
