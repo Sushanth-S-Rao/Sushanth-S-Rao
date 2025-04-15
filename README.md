@@ -1,13 +1,13 @@
-<h1 align="left"> Hi there! 
+<h2 align="left"> Hi there! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanth-s-rao&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-s-rao" /> </p>
-</h1>
+</h2>
 
 - 🔭 I’m currently working on building Generative AI applications
 - 🌱 I’m currently learning Python
 - 💬 Ask me about C
 - ⚡ Fun fact: Any problem can be solved by adding another layer of direction
 
-
+<br />
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/sushanth-s-rao" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="sushanth-s-rao" height="30" width="40" /></a> <a href="https://www.leetcode.com/sushanth_s_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushanth_s_rao" height="30" width="40" /></a>
